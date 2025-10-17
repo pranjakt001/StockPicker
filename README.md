@@ -6,6 +6,9 @@ An intelligent multi-agent system that researches trending companies and provide
 ![CrewAI](https://img.shields.io/badge/CrewAI-0.28.0+-green.svg)
 ![Gradio](https://img.shields.io/badge/Gradio-4.0.0+-orange.svg)
 
+## Live Demo : https://huggingface.co/spaces/pranjakt/StockPicker
+
+
 ## 🌟 Features
 
 - **Multi-Agent AI System**: Specialized agents work collaboratively to analyze stocks
