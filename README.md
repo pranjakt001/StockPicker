@@ -27,19 +27,19 @@ The system employs 4 specialized AI agents:
 2. **🔬 Financial Researcher**
    - Conducts deep analysis on each company
    - Evaluates market position, growth prospects, and investment potential
-   - Uses: GPT-4o-mini + Web Research Tools
+   - Uses: Perplexity Sonar AI + Web Research Tools
 
 3. **🎯 Stock Picker**
    - Reviews all research findings
    - Selects the best investment opportunity
    - Provides detailed rationale
-   - Uses: GPT-4o-mini
+   - Uses: Perplexity Sonar AI
 
 4. **📋 Manager**
    - Coordinates the entire workflow
    - Delegates tasks to appropriate agents
    - Ensures quality and completeness
-   - Uses: GPT-4o
+   - Uses: Perplexity Sonar AI
 
 ## 🚀 Quick Start
 
